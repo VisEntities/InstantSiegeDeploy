@@ -11,7 +11,7 @@ using UnityEngine;
 namespace Oxide.Plugins
 {
     [Info("Instant Siege Deploy", "VisEntities", "1.0.0")]
-    [Description(" ")]
+    [Description("Siege weapons are placed fully built with no repairs required.")]
     public class InstantSiegeDeploy : RustPlugin
     {
         #region Fields
